@@ -17,13 +17,13 @@ This project is build with:
 - HTML
 - CSS
 
-[Link Demo](https://andersonlebon.github.io/Survery-form-Review/)
+[Link Demo](https://andersonlebon.github.io/sarvey-form-w2/)
 
 ## Getting Started
 
 To get the content of this project locally you need to run this command in your terminal:
 
-- ` git clone https://github.com/andersonlebon/Survery-form-Review.git`
+- ` git clone https://github.com/andersonlebon/sarvey-form-w2.git`
 
 ## Author
 
