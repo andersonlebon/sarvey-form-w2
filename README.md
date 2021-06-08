@@ -2,8 +2,6 @@
 
 ## Description
 
-> here is the mobile version![127 0 0 1_5501_index html(iPhone 6_7_8)](https://user-images.githubusercontent.com/65068771/120801329-52585980-c541-11eb-8400-eab486af5a40.png)
-
 > The main purposes of the project are:
 
 - Apply best practices in HTML code.
